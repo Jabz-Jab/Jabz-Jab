@@ -1,7 +1,3 @@
-# 💫 About Me:
-💻 I’m currently working on<br>Building web applications and improving my UI/UX design skills<br><br>👯 I’m looking to collaborate on<br>Web development and UI/UX design projects<br><br>🤝 I’m looking for help with<br>Advanced frontend frameworks and design optimization<br><br>🌱 I’m currently learning<br>React, modern UI/UX principles, and responsive design<br><br>⚡ Fun fact<br>I enjoy turning creative ideas into functional and user-friendly designs
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jabz_jab) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gitprojectjabz@gmail.com) 
 
